@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ReactFirstWebsite/static/css/main.b20a45fe.css",
+    "main.js": "/ReactFirstWebsite/static/js/main.00dc9b78.js",
+    "static/media/big_rock.jpg": "/ReactFirstWebsite/static/media/big_rock.fd48539f5409a511d492.jpg",
+    "static/media/new1.jpg": "/ReactFirstWebsite/static/media/new1.b30d514f15d8d9edfb38.jpg",
+    "index.html": "/ReactFirstWebsite/index.html",
+    "main.b20a45fe.css.map": "/ReactFirstWebsite/static/css/main.b20a45fe.css.map",
+    "main.00dc9b78.js.map": "/ReactFirstWebsite/static/js/main.00dc9b78.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b20a45fe.css",
+    "static/js/main.00dc9b78.js"
+  ]
+}
